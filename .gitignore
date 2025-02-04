@@ -1,0 +1,47 @@
+# ⚡ Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ⚡ Virtual Environment (myenv)
+myenv/
+venv/
+env/
+*.venv
+
+# ⚡ Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# ⚡ Logs & Debug
+*.log
+*.out
+*.err
+logs/
+debug.log
+
+# ⚡ Data files
+*.csv
+*.json
+*.db
+*.sqlite
+*.pkl
+data/
+
+# ⚡ PDFs (évite d'ajouter tes fichiers d'articles)
+*.pdf
+
+# ⚡ Excel Files (résultats PWI)
+*.xlsx
+*.xls
+
+# ⚡ Cache & Temporary files
+.DS_Store
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# ⚡ IDE & OS Specific
+.vscode/
+.idea/
+Thumbs.db
